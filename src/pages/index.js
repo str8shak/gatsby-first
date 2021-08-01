@@ -1,5 +1,6 @@
 import * as React from "react"
-import  "../style/pages.css"
+import  "../style/css.css"
+
 
 
 const IndexPage = () => {
