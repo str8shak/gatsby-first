@@ -1,6 +1,6 @@
 import * as React from "react"
-//import  "../style/pages.css"
-import "tailwindcss/tailwind.css"
+import  "../style/pages.css"
+
 
 const IndexPage = () => {
   return (
