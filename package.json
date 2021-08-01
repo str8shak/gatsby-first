@@ -21,7 +21,8 @@
     "gatsby-plugin-postcss": "^4.10.0",
     "postcss": "^8.3.6",
     "react": "^17.0.1",
-    "react-dom": "^17.0.1"
+    "react-dom": "^17.0.1",
+    "tailwind":"^2.2.7"
   },
   "devDependencies": {
     "tailwind":"^2.2.7"
